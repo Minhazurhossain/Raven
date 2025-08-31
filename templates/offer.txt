@@ -1,0 +1,6 @@
+Hello {name},
+
+Get 20% off on all products this week! 🎉
+Check the attached catalog.
+
+Offer ends soon!

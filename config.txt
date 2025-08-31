@@ -1,0 +1,16 @@
+  whatsapp_sender/
+├── config.py
+├── session.py
+├── sender.py
+├── utils.py
+├── scheduler.py
+├── templates/             # New: store message templates
+│   └── welcome.txt
+│   └── offer.txt
+├── logs/
+│   └── send_log_2025-04-05.log
+├── failed_contacts/
+│   └── failed_2025-04-05.csv
+├── gui.py                 # Updated with new features
+├── main.py
+└── contacts.csv 

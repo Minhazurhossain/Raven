@@ -1,0 +1,6 @@
+Hi {name},
+
+Thanks for being a valued customer! We’re excited to serve you.
+
+Best,
+Office Team
